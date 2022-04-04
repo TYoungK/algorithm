@@ -1,0 +1,1 @@
+exec(open("Sort/6-3.py").read())
